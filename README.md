@@ -1,1 +1,3 @@
 # Vector-Abstraction
+
+Taking inspiration from Damien Hirsts’ spot paintings (https://www.damienhirst.com/untitled-with-black-dot), I created this abstract sketch of various sized orange and green circles, mimicking the grid like structure Hirst uses in his work by translating the circles along the x and y axis. My main intention was for the circles to be different shades of orange but I’ve found that the green makes it more dynamic. Using the random() function for the circles parameters creates unique forms and makes for a compelling sequence. I added a keyPressed() function so whenever the ’s’ key is pressed, it saves a png of the sketch. As its an animation, each image saved is different. 
